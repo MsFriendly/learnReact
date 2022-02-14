@@ -1,0 +1,9 @@
+.class {
+    width: 100px;
+    height: 100px;
+    padding: 5px 10px;
+    margin: 4px;
+    text-align: center;
+    display: inline-block;
+    background-color: rgb(163, 234, 247);
+}
