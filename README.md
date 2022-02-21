@@ -1,3 +1,3 @@
 # learnReact
-Learning React & GraphQL
+Learning React & GraphQL  
 Website:  https://msfriendly.github.io/learnReact/
