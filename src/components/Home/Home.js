@@ -1,5 +1,6 @@
 import React, {useState} from 'react'
-import Class from "../Class/Class";
+// import Class from "../Class/Class";
+import ClassGraphQL from "../Class/ClassGraphQL"
 import "./Home.css";
 
 function Home(props){
@@ -18,7 +19,7 @@ function Home(props){
             setClasses(favoriteClasses.concat(value));//update states
             setValue('');
         }
-        console.log(favoriteClasses);
+        // console.log(favoriteClasses);
     }
     return (
         <div>
@@ -28,9 +29,14 @@ function Home(props){
                 <input type="text" value={value} onChange={handleChange}></input>
                 <button type="submit">Add Class!</button>
             </form>
-            <div className="my-classes"> 
+            {/* <div className="my-classes"> 
                 {favoriteClasses.map((favClass) => 
                     <Class name={favClass} key={favClass}></Class>
+                )}
+            </div> */}
+            <div className="my-classes"> 
+                {favoriteClasses.map((favClass) => 
+                    <ClassGraphQL name={favClass} key={favClass}></ClassGraphQL>
                 )}
             </div>
         </div>

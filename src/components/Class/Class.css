@@ -1,9 +1,19 @@
 .class {
-    width: 100px;
-    height: 100px;
+    width: 260px; 
+    height: 300px;
     padding: 5px 10px;
-    margin: 4px;
+    margin: 5px;
     text-align: center;
+    vertical-align: top;
     display: inline-block;
     background-color: rgb(163, 234, 247);
+}
+
+#title{
+    font-size: larger;
+    font-weight: bold
+}
+#description{
+    font-size: smaller;
+    color: rgb(96, 96, 96)
 }
