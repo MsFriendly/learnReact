@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/learnReact/static/css/main.f16b95fc.css",
-    "main.js": "/learnReact/static/js/main.deb8e9b0.js",
-    "static/js/787.28cb0dcd.chunk.js": "/learnReact/static/js/787.28cb0dcd.chunk.js",
+    "main.js": "/learnReact/static/js/main.c6e11193.js",
+    "static/js/787.87c8eaef.chunk.js": "/learnReact/static/js/787.87c8eaef.chunk.js",
     "static/media/logo.svg": "/learnReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/learnReact/index.html",
     "main.f16b95fc.css.map": "/learnReact/static/css/main.f16b95fc.css.map",
-    "main.deb8e9b0.js.map": "/learnReact/static/js/main.deb8e9b0.js.map",
-    "787.28cb0dcd.chunk.js.map": "/learnReact/static/js/787.28cb0dcd.chunk.js.map"
+    "main.c6e11193.js.map": "/learnReact/static/js/main.c6e11193.js.map",
+    "787.87c8eaef.chunk.js.map": "/learnReact/static/js/787.87c8eaef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f16b95fc.css",
-    "static/js/main.deb8e9b0.js"
+    "static/js/main.c6e11193.js"
   ]
 }
