@@ -1,3 +1,3 @@
 # learnReact
-Learning React with ICSSC Fellowship  
+Learning React & GraphQL
 Website:  https://msfriendly.github.io/learnReact/
